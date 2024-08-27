@@ -58,7 +58,7 @@ The following animation demonstrates the application functionality:
 
 The following image shows the application's `manifest.json` file:
 
-![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/01-manifest.png)
+![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/01-manif est.png)
 
 The following image shows the application's registered service worker:
 
