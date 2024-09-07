@@ -7,22 +7,14 @@ Application is deployed on render.
 
 ##Table of Contents
 ##Installation
+npm i
 
 ##Usage
 
-##License
-
-##Contributing
-
-##Questions
-
-##Installation
- npm i
-
-##Usage
 command to start application - npm run develop
 
 ##License
+
 This project is licensed under the MIT License. 
 
 License: MIT
